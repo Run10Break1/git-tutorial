@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hi 1 2 end !! as adlfjk;
+=======
+hi 1 2 end !! as
+
+1
+
+d
+feature-A
+>>>>>>> feature-A
